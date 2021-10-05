@@ -41,11 +41,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
