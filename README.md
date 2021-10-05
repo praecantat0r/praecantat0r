@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://s9.gifyu.com/images/logo7b26ed73d37f3f90.gif" align="center" style="width: 100%" />
-</div>  
+</div>    
   
 
 ### *<div align="center">My name is ctc, I'm a CTF player, beginner malware analyst and coder.</div>*  
