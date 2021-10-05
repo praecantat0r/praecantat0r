@@ -90,19 +90,3 @@
   
 
 [A.A.R.S](https://github.com/praecantat0r/A.A.R.S)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-
