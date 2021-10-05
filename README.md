@@ -45,6 +45,10 @@
 
 
 
+</td></tr></table>  
+
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -86,3 +90,6 @@
   
 
 [A.A.R.S](https://github.com/praecantat0r/A.A.R.S)  
+  
+
+<br/>  
