@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praecantat0r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
