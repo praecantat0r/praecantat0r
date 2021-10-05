@@ -50,7 +50,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/praencantat0r" target="_blank">
+<a href="https://github.com/praecantat0r" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/dont_bIink" target="_blank">
