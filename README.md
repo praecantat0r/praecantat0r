@@ -1,13 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/86436966/136018034-297fce1d-5834-4969-b34c-95b8819d86da.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dont_biink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dont_biink" height="30" width="40" /></a>
-</p>
+![image](https://user-images.githubusercontent.com/86436966/136018771-b6ffe18d-a977-447e-9a2b-fbe957ddb549.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praecantat0r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
