@@ -18,8 +18,8 @@
 <br/>  
 
 
-## My Skill Set  
-<div align="center"> 
+## Connect with me  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
