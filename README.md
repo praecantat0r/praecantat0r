@@ -37,7 +37,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+<img style="margin: 10px" src="![image](https://user-images.githubusercontent.com/86436966/136075345-4df67ed6-5854-44fe-9c1b-84cba9ca8397.png)" alt="Cinema4D" height="50" />  
 </div>
 
 
