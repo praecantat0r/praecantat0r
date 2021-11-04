@@ -76,7 +76,7 @@
 *<ins>RE & MALWARE ANALYSIS</ins>*  
   
 
-[Ransomware](https://github.com/praecantat0r/RE-AND-MALWARE-ANALYSIS-NOTES/blob/main/.MD-extension/Ransomware.md)  
+[Rootkits](https://github.com/praecantat0r/RE-AND-MALWARE-ANALYSIS-NOTES/blob/main/.MD-extension/Rootkits.md)  
   
 
 [Assembly](https://github.com/praecantat0r/RE-AND-MALWARE-ANALYSIS-NOTES/blob/main/.MD-extension/Assembly.md)  
