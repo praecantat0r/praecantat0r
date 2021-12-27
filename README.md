@@ -61,9 +61,7 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>
- 
-<div align="center">  
-<script src="https://tryhackme.com/badge/365484"></script>
+
   
 
 <br/>  
