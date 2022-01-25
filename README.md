@@ -15,10 +15,9 @@
 - ⚡ Fun fact: I use mint  
   
 
-<br/>  
 
-<div align="center">
 ## My Skill Set
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ## Languages  
