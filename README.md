@@ -48,10 +48,6 @@
 <br/>  
 
   
-## THM
-<div align="center"> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ctc.png" alt="TryHackMe">   
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/praecantat0r" target="_blank">
