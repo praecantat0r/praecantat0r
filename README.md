@@ -17,8 +17,8 @@
 
 <br/>  
 
-## My Skill Set
 <div align="center">
+## My Skill Set
 <table><tr><td valign="top" width="33%">
 
 ## Languages  
