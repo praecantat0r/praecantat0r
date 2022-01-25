@@ -2,21 +2,7 @@
 <img src="https://s9.gifyu.com/images/logo7b26ed73d37f3f90.gif" align="center" style="width: 100%" />
 </div>    
   
-
-### *<div align="center">My name is ctc, I'm a CTF player, beginner malware analyst and coder.</div>*  
-  
-
-- 🔭 I’m currently working on [Malware Analysis Notes](https://github.com/praecantat0r/RE-AND-MALWARE-ANALYSIS-NOTES)  
-  
-
-- 👨‍💻 I want to learn C# and Rust  
-  
-
-- ⚡ Fun fact: I use mint  
-  
-
-
-## My Skill Set
+## <div align="center">My Skill Set</div>
 <div align="center">
 <table><tr><td valign="top" width="33%">
 
