@@ -46,7 +46,7 @@
 </div>
 
 <div align="center"> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ctc.png" alt="TryHackMe"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ctc.png" alt="TryHackMe">
 
 <br/>  
 
