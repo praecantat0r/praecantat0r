@@ -61,7 +61,7 @@
 *<ins>RE & MALWARE ANALYSIS</ins>*  
   
 
-[Rootkits](https://github.com/praecantat0r/RE-AND-MALWARE-ANALYSIS-NOTES/blob/main/.MD-extension/Rootkits.md)  
+[ZXYR](https://github.com/praecantat0r/zxyr)  
   
 
 [Assembly](https://github.com/praecantat0r/RE-AND-MALWARE-ANALYSIS-NOTES/blob/main/.MD-extension/Assembly.md)  
