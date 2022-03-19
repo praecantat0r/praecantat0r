@@ -58,7 +58,7 @@
 
 
 ## Recent Blog Posts  
-*<ins>RE & MALWARE ANALYSIS</ins>*  
+*<ins>RE & MALWARE</ins>*  
   
 
 [ZXYR](https://github.com/praecantat0r/zxyr)  
