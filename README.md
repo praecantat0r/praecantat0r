@@ -22,7 +22,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-<img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/10/cinema-4d-logo.png" alt="Cinema4D" height="50" />  
 </div>
  
 
